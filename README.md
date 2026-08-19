@@ -3,7 +3,10 @@
 # Darwix Insurance AI Assistant DEMO VIDEO
 
 [Watch the Demo Video]
+FOR Q1:
 https://drive.google.com/file/d/1YOaWPMATPa9FImCyZa_N4KGBCtuynz1c/view?usp=sharing
+FOR Q2:
+
 
 ## Overview
 
@@ -217,3 +220,30 @@ For production use, the system would need secure data storage, CRM integration, 
 API keys and other credentials must not be committed to the repository.
 
 The `.env.example` file is provided as a template. The actual `.env` file should remain local.
+
+
+# Q2
+## Question 2 — Production-Ready Knowledge Base
+
+The knowledge base was extended with structured metadata and source
+traceability for retrieval.
+
+Each knowledge record includes a record ID, title, category, source, version,
+PII flag and chunk ID.
+
+The knowledge base is embedded using `all-MiniLM-L6-v2` and indexed in Qdrant
+using cosine similarity.
+
+Five retrieval queries were evaluated across product, policy, claims, payment
+and human-support scenarios. The five tests returned relevant top-ranked
+records.
+
+The Q2 implementation and evaluation are documented in:
+
+```text
+q2/
+├── knowledge_base_schema.md
+├── data_cleaning.md
+├── retrieval_test.py
+├── retrieval_tests.md
+└── q2_report.md
