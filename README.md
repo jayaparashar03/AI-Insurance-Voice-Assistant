@@ -5,8 +5,8 @@
 [Watch the Demo Video]
 FOR Q1:
 https://drive.google.com/file/d/1YOaWPMATPa9FImCyZa_N4KGBCtuynz1c/view?usp=sharing
-FOR Q2:
-
+FOR Q2(using q1):
+https://drive.google.com/file/d/1z_6oma2_ekCpLdRDeWoceBA5_VuBvn0N/view?usp=sharing
 
 ## Overview
 
