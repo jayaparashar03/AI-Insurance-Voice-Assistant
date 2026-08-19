@@ -222,23 +222,41 @@ API keys and other credentials must not be committed to the repository.
 The `.env.example` file is provided as a template. The actual `.env` file should remain local.
 
 
-# Q2
+# Q2 (using q1)
 ## Question 2 — Production-Ready Knowledge Base
 
-The knowledge base was extended with structured metadata and source
-traceability for retrieval.
+The insurance knowledge base was extended into a structured and traceable
+retrieval system for the voice assistant.
 
-Each knowledge record includes a record ID, title, category, source, version,
-PII flag and chunk ID.
+The knowledge records include:
 
-The knowledge base is embedded using `all-MiniLM-L6-v2` and indexed in Qdrant
-using cosine similarity.
+- Record ID
+- Title
+- Content
+- Category
+- Source
+- Version
+- PII flag
+- Chunk ID
 
-Five retrieval queries were evaluated across product, policy, claims, payment
-and human-support scenarios. The five tests returned relevant top-ranked
-records.
+The source data is cleaned and divided into logical sections before being
+embedded using `all-MiniLM-L6-v2` and indexed in Qdrant.
 
-The Q2 implementation and evaluation are documented in:
+The retrieval pipeline uses semantic similarity to find relevant insurance
+information. Retrieved records retain their source and metadata so that the
+information used by the assistant can be traced back to the source document.
+
+Five retrieval queries were tested covering:
+
+- Product information
+- Policy information
+- Claims
+- Payment methods
+- Human support
+
+All five tests returned a relevant top-ranked record.
+
+The Q2 implementation and evaluation are available in:
 
 ```text
 q2/
