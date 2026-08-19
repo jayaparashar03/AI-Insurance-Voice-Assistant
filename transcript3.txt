@@ -1,0 +1,13 @@
+# Transcript 3 – Human Escalation
+
+**Scenario:** Customer asks an unsupported question and then requests a human advisor.
+
+**Customer:** Do you provide Pet Insurance?
+
+**Bot:** I don't have that information.
+
+**Customer:** I'd like to speak with a human advisor.
+
+**Bot:** Certainly. Please use the Request Callback tab and enter your name and phone number. A representative can contact you for further assistance.
+
+

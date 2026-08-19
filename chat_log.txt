@@ -1,0 +1,4499 @@
+
+[2026-08-19 16:37:17.433276]
+User: Can I insure my pet?
+Bot: I don't have that information.
+
+[2026-08-19 16:37:35.989536]
+User: What is the Basic Health Plan premium?
+Bot: I don't have that information.
+
+[2026-08-19 16:38:09.573980]
+User: tell me about health insurance
+Bot: I don't have that information.
+
+[2026-08-19 16:39:30.546102]
+User: What is the Basic Health Plan premium?
+Bot: I don't have that information.
+
+[2026-08-19 16:49:09.071298]
+User: What is the Basic Health Plan premium?
+Bot: I don't have that information.
+
+[2026-08-19 16:49:52.093234]
+User: what is payment mode\
+Bot: I don't have that information.
+
+[2026-08-19 16:50:03.572974]
+User: payment method
+Bot: I don't have that information.
+
+[2026-08-19 16:50:37.493468]
+User: what is payment mode\
+Bot: I don't have that information.
+
+[2026-08-19 16:50:47.727849]
+User: payment method
+Bot: I don't have that information.
+
+[2026-08-19 16:53:41.640353]
+User: how to use it
+Bot: I don't have that information.
+
+[2026-08-19 16:54:00.298371]
+User: how to use the assistant
+Bot: I don't have that information.
+
+[2026-08-19 17:32:45.246350]
+User: What is the Basic Health Plan premium?
+Bot: The Basic Health Plan premium is ₹7,500 annually.
+
+[2026-08-19 17:33:06.899882]
+User: tell everthing  about health insurance
+Bot: I don't have that information.
+
+[2026-08-19 17:33:20.774790]
+User: whats the life insurance
+Bot: I don't have that information.
+
+[2026-08-19 17:33:34.130163]
+User: whats the life insurance
+Bot: I don't have that information.
+
+[2026-08-19 17:33:44.926411]
+User: How long does claim approval take?
+Bot: Usually between 2 and 5 working days.
+
+[2026-08-19 17:33:52.861844]
+User: What is the Basic Health Plan premium?
+Bot: The Basic Health Plan premium is ₹7,500 annually.
+
+[2026-08-19 17:34:22.247155]
+User: whats required doucments
+Bot: I don't have that information.
+
+[2026-08-19 17:34:36.621634]
+User: required doucments
+Bot: I don't have that information.
+
+[2026-08-19 17:34:50.692690]
+User: can i pay using upi
+Bot: Yes, you can pay using UPI.
+
+[2026-08-19 17:35:09.211235]
+User: what more options of payment
+Bot: I don't have that information.
+
+[2026-08-19 17:40:29.159750]
+User: what is basic plan
+Bot: I don't have that information.
+
+[2026-08-19 17:40:43.183521]
+User: what is basic plan insurance?\
+Bot: I don't have that information.
+
+[2026-08-19 17:41:09.417834]
+User: what is in premium insurance?
+Bot: I don't have that information.
+
+[2026-08-19 17:41:20.578115]
+User: duration of plan
+Bot: I don't have that information.
+
+[2026-08-19 17:41:39.407280]
+User: What is the Premium Health Plan coverage?
+Bot: I don't have that information.
+
+[2026-08-19 17:45:49.379192]
+User: How long does claim approval take?
+Bot: Usually between 2 and 5 working days.
+
+[2026-08-19 17:45:57.102639]
+User: What payment methods are accepted?
+Bot: The accepted payment methods are UPI, Debit Card, Credit Card, Net Banking, and Auto Debit.
+
+[2026-08-19 18:13:21.727054]
+User: can i renew my policy online?
+Bot: Yes, you can renew your policy online. When you renew, you’ll receive reminders before the policy expires, you’ll have a 15‑day grace period, and your No Claim Bonus will continue if you renew within that grace period.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:13:43.277215]
+User: tell me about health insurance
+Bot: **Health Insurance Options from Darwix Insurance**
+
+| Plan | Coverage | Annual Premium | Key Features |
+|------|----------|----------------|--------------|
+| **Basic Health Plan** | ₹5 lakh | ₹7,500 | • Cashless hospitalization<br>• Free annual health check‑up<br>• 3‑year waiting period for pre‑existing diseases |
+| **Premium Health Plan** | ₹10 lakh | ₹12,000 | • ICU coverage included<br>• Ambulance charges covered up to ₹5,000<br>• Cashless hospitalization<br>• Annual health check‑up |
+| **Family Floater Plan** | ₹15 lakh | ₹16,500 | • Covers two adults and two children<br>• Cashless hospitalization |
+
+**Coverage Details (common to all plans)**  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+**Eligibility**  
+- Minimum age: 18 years  
+- Maximum age: 65 years (for health insurance)  
+
+These plans provide a range of coverage levels and benefits, allowing you to choose the option that best fits your health needs and budget.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:14:04.001988]
+User: about doucuments
+Bot: I don't have that information.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:14:26.929413]
+User: what required doucument
+Bot: I don't have that information.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:14:51.580072]
+User: can online police be renew?
+Bot: Yes. Policy renewal can be done online.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:15:50.263509]
+User: What is the Basic Health Plan premium?
+Bot: The Basic Health Plan has an annual premium of ₹7,500.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:16:07.144428]
+User: What is the Basic Health Plan premium?
+Bot: The Basic Health Plan has an annual premium of ₹7,500.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:16:18.397554]
+User: Tell me about Life Insurance
+Bot: **Life Insurance Plans**
+
+| Plan | Coverage | Entry Age | Policy Term / Coverage Duration | Key Features |
+|------|----------|-----------|---------------------------------|--------------|
+| **Secure Life Plan** | ₹50 lakh | 18 – 55 years | 10 – 30 years | Monthly or yearly premium payment options |
+| **Lifetime Protection Plan** | ₹1 crore | 18 – 60 years | Coverage continues until age 75 | Accidental death benefit included |
+
+These plans provide life‑insurance protection for individuals and families, with the Secure Life Plan offering a moderate coverage amount and flexible term options, while the Lifetime Protection Plan offers higher coverage that extends until age 75 and includes an accidental death benefit.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:16:41.157320]
+User: tell me about this application how to use
+Bot: I don't have that information.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:17:00.970821]
+User: how to use this application
+Bot: I don't have that information.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:17:34.090330]
+User: what douuments are required
+Bot: I don't have that information.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:18:03.803026]
+User: douments required for claims
+Bot: The documents you may need to submit for a motor insurance claim include:
+
+- Policy number  
+- Aadhaar Card  
+- PAN Card  
+- Identity proof  
+- Medical bills  
+- Accident documents  
+- Bank account details
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:18:27.592286]
+User: travel insurance
+Bot: **Travel Insurance**
+
+**Domestic Travel Plan**  
+- Medical emergencies  
+- Trip cancellation  
+- Lost baggage  
+
+**International Travel Plan**  
+- Medical coverage up to ₹50 lakh  
+- Passport loss assistance  
+- Emergency evacuation  
+- Lost baggage support  
+
+These plans provide coverage for medical emergencies, trip cancellations, and baggage issues, with the international plan offering higher medical limits and additional assistance such as passport loss and evacuation.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:18:38.199298]
+User: insurances
+Bot: **Darwix Insurance Coverage Overview**
+
+**1. General Coverage (for selected policies)**  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+**2. Travel Insurance**  
+
+- **Domestic Travel Plan**  
+  - Medical emergencies  
+  - Trip cancellation  
+  - Lost baggage  
+
+**3. Motor Insurance**  
+
+- **Third‑Party Plan** (mandatory by law)  
+  - Third‑party property damage  
+  - Third‑party injury claims  
+
+- **Comprehensive Motor Insurance Plan**  
+  - Own vehicle damage  
+  - Theft  
+  - Fire damage  
+  - Flood damage  
+  - Natural disasters  
+  - Roadside assistance  
+
+- **Family Floater Plan** (health insurance component)  
+  - Coverage: ₹15 lakh  
+  - Covers two adults and two children  
+  - Annual premium: ₹16,500  
+  - Cashless hospitalization  
+
+These are the insurance options and benefits offered by Darwix Insurance.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:33:40.139176]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Options from Darwix Insurance**
+
+| Plan | Coverage | Annual Premium | Key Features |
+|------|----------|----------------|--------------|
+| **Basic Health Plan** | ₹5 lakh | ₹7,500 | • Cashless hospitalization<br>• Free annual health check‑up<br>• 3‑year waiting period for pre‑existing diseases |
+| **Premium Health Plan** | ₹10 lakh | ₹12,000 | • ICU coverage included<br>• Ambulance charges covered up to ₹5,000<br>• Cashless hospitalization<br>• Annual health check‑up |
+| **Family Floater Plan** | ₹15 lakh | ₹16,500 | • Covers two adults and two children<br>• Cashless hospitalization |
+
+**Coverage Details (common to all plans)**  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+**Eligibility**  
+- Minimum age: 18 years  
+- Maximum age: 65 years (for health insurance)  
+
+These plans provide varying levels of protection and benefits, allowing you to choose based on your budget and coverage needs.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:34:11.530154]
+User: what icu expenses
+Bot: ICU expenses are covered under the **Premium Health Plan**. This plan includes ICU coverage as part of its benefits.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:35:01.522050]
+User: compare health insurance plan
+Bot: **Comparison of Darwix Insurance Health Plans**
+
+| Feature | Basic Health Plan | Premium Health Plan | Family Floater Plan |
+|---------|-------------------|---------------------|---------------------|
+| **Coverage amount** | ₹5 lakh | ₹10 lakh | ₹15 lakh |
+| **Annual premium** | ₹7,500 | ₹12,000 | ₹16,500 |
+| **Cashless hospitalization** | ✔ | ✔ | ✔ |
+| **Free annual health check‑up** | ✔ | ✔ (annual health check‑up) | ❌ |
+| **ICU coverage** | ❌ | ✔ (ICU coverage included) | ❌ |
+| **Ambulance charges covered** | ❌ | Up to ₹5,000 | ❌ |
+| **Pre‑existing disease waiting period** | 3 years | Not specified (assumed none) | Not specified |
+| **Target audience** | Individuals seeking affordable coverage | Individuals wanting higher protection and extra benefits | Families needing a single policy for two adults and two children |
+
+**Key Takeaways**
+
+- The **Premium Health Plan** offers the highest coverage (₹10 lakh) and includes ICU and ambulance benefits, making it suitable for those who want more comprehensive protection.
+- The **Basic Health Plan** is the most affordable option (₹7,500 premium) and is ideal for individuals who need essential coverage with a lower cost.
+- The **Family Floater Plan** provides the largest coverage (₹15 lakh) for a family of four under one policy, though it lacks ICU and ambulance benefits that are present in the Premium plan.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:35:53.823093]
+User: how to use
+Bot: I don't have that information.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:36:11.619779]
+User: how to use this application chat
+Bot: I don't have that information.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:36:30.150821]
+User: all topic
+Bot: I don't have that information.
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 18:36:48.646188]
+User: inurances information present topic
+Bot: The Darwix Insurance Knowledge Base covers the following insurance topics:
+
+- **Health Insurance**  
+- **Life Insurance**  
+- **Motor Insurance** (including the mandatory Third‑Party Plan)  
+- **Travel Insurance** (Domestic Travel Plan, coverage details, etc.)  
+- **Premiums**  
+- **Coverage**  
+- **Eligibility**  
+- **Waiting Periods**  
+- **Claims**  
+- **Required Documents**  
+- **Payment Methods**  
+- **Policy Renewal**  
+- **Human Support** (callbacks, advisors, plan comparisons)
+
+---
+
+### You can also ask:
+
+• Tell me about Health Insurance
+
+• Compare Health Insurance plans
+
+• Tell me about Life Insurance
+
+• Explain Motor Insurance
+
+• What Travel Insurance plans are available?
+
+• What is the Basic Health Plan premium?
+
+• Is cashless hospitalization available?
+
+• What payment methods are accepted?
+
+• What documents are required for claims?
+
+• How long does claim approval take?
+
+• Can I renew my policy online?
+
+
+[2026-08-19 19:22:12.209267]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview (Darwix Insurance)**  
+
+| Plan | Coverage | Annual Premium | Key Features |
+|------|----------|----------------|--------------|
+| **Premium Health Plan** | ₹10 lakh | ₹12,000 | ICU coverage, ambulance charges up to ₹5,000, cashless hospitalization, annual health check‑up |
+| **Basic Health Plan** | ₹5 lakh | ₹7,500 | Cashless hospitalization, free annual health check‑up, 3‑year waiting period for pre‑existing diseases |
+| **Family Floater Plan** | ₹15 lakh | ₹16,500 | Covers two adults and two children, cashless hospitalization |
+
+**Coverage Details (common to all plans)**  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+**Eligibility**  
+- Minimum age: 18 years  
+- Maximum age: 65 years  
+
+**Waiting Periods**  
+- Pre‑existing diseases: 3 years (Basic Health Plan)  
+- Accident‑related hospitalization: immediate coverage  
+- Maternity benefits: policy‑dependent  
+
+Feel free to ask if you’d like to compare plans or need help with enrollment.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance.
+- Compare the Health Insurance plans.
+- Tell me about Life Insurance.
+- Explain Motor Insurance.
+- What Travel Insurance plans are available?
+- What is the Basic Health Plan premium?
+- Can I pay using UPI?
+- What payment methods are accepted?
+- How long does claim approval take?
+- What documents are required for a claim?
+- Can I renew my policy online?
+
+
+[2026-08-19 19:23:11.315295]
+User: tell me about the health insurance
+Bot: **Darwix Health Insurance Overview**
+
+| Plan | Coverage | Annual Premium | Key Features |
+|------|----------|----------------|--------------|
+| **Premium Health Plan** | ₹10 lakh | ₹12,000 | ICU coverage, ambulance charges up to ₹5,000, cashless hospitalization, annual health check‑up |
+| **Basic Health Plan** | ₹5 lakh | ₹7,500 | Cashless hospitalization, free annual health check‑up, 3‑year pre‑existing disease waiting period |
+| **Family Floater Plan** | ₹15 lakh | ₹16,500 | Covers 2 adults + 2 children, cashless hospitalization |
+
+**Common Coverage Elements (by policy)**  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+Feel free to let me know which plan interests you or if you need details on eligibility, waiting periods, or claims.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance.
+- Compare the Health Insurance plans.
+- Tell me about Life Insurance.
+- Explain Motor Insurance.
+- What Travel Insurance plans are available?
+- What is the Basic Health Plan premium?
+- Can I pay using UPI?
+- What payment methods are accepted?
+- How long does claim approval take?
+- What documents are required for a claim?
+- Can I renew my policy online?
+
+
+[2026-08-19 19:46:29.464999]
+User: Compare Health Insurance plans
+Bot: **Health Insurance Plans Comparison**
+
+| Feature | Premium Health Plan | Basic Health Plan | Family Floater Plan |
+|---------|---------------------|-------------------|---------------------|
+| **Coverage amount** | ₹10 lakh | ₹5 lakh | ₹15 lakh |
+| **Annual premium** | ₹12,000 | ₹7,500 | ₹16,500 |
+| **ICU coverage** | Included | Not specified | Not specified |
+| **Ambulance charges** | Covered up to ₹5,000 | Not specified | Not specified |
+| **Cashless hospitalization** | Yes | Yes | Yes |
+| **Annual health check‑up** | Included | Free annual check‑up | Not specified |
+| **Pre‑existing disease waiting period** | Not mentioned | 3 years | Not mentioned |
+| **Target group** | Individuals needing higher protection | Individuals seeking affordable coverage | Families (2 adults + 2 children) |
+
+**Key Takeaways**
+
+- The **Premium Health Plan** offers the highest coverage (₹10 lakh) with ICU and ambulance benefits, but at a higher premium (₹12,000).  
+- The **Basic Health Plan** is the most affordable (₹7,500) with a lower coverage limit (₹5 lakh) and a 3‑year waiting period for pre‑existing conditions.  
+- The **Family Floater Plan** provides the largest coverage (₹15 lakh) for a family of four, but its premium (₹16,500) is higher than the individual plans.  
+
+Choose based on your coverage needs, budget, and whether you require family coverage.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance.
+- Compare the Health Insurance plans.
+- Tell me about Life Insurance.
+- Explain Motor Insurance.
+- What Travel Insurance plans are available?
+- What is the Basic Health Plan premium?
+- Can I pay using UPI?
+- What payment methods are accepted?
+- How long does claim approval take?
+- What documents are required for a claim?
+- Can I renew my policy online?
+
+
+[2026-08-19 19:56:24.270635]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+- **Premium Health Plan**
+  - Coverage: ₹10 lakh
+  - Annual premium: ₹12,000
+  - ICU coverage included
+  - Ambulance charges covered up to ₹5,000
+  - Cashless hospitalization
+  - Annual health check‑up
+
+- **Basic Health Plan**
+  - Coverage: ₹5 lakh
+  - Annual premium: ₹7,500
+  - Cashless hospitalization
+  - Free annual health check‑up
+  - Pre‑existing disease waiting period: 3 years
+
+- **Family Floater Plan**
+  - Coverage: ₹15 lakh
+  - Covers two adults and two children
+  - Annual premium: ₹16,500
+  - Cashless hospitalization
+
+**Coverage Types (common to many plans)**
+- Hospitalization
+- ICU expenses
+- Emergency treatment
+- Ambulance charges
+- Cashless treatment
+- Day‑care procedures
+- Accident‑related expenses
+
+**Eligibility**
+- Minimum age: 18 years
+- Maximum age: 65 years
+
+**Waiting Periods**
+- Pre‑existing diseases: 3 years (Basic Health Plan)
+- Accident‑related hospitalization: immediate coverage
+- Maternity benefits: policy‑dependent
+
+Feel free to ask if you’d like to compare plans or need details on a specific policy.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- What is the Basic Health Plan premium?
+- Is cashless hospitalization available?
+- What documents are required for a claim?
+- How long does claim approval take?
+- What payment methods are accepted?
+- Can I renew my policy online?
+
+
+[2026-08-19 19:57:34.211805]
+User: can I use upi for payment
+Bot: **UPI Payment**
+
+- Yes, you can pay your insurance premiums using UPI.  
+- Other available methods include Debit Card, Credit Card, Net Banking, and Auto Debit.  
+- Premiums can be paid either monthly or yearly.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- What is the Basic Health Plan premium?
+- Is cashless hospitalization available?
+- What documents are required for a claim?
+- How long does claim approval take?
+- What payment methods are accepted?
+- Can I renew my policy online?
+
+
+[2026-08-19 19:58:26.910276]
+User: tell me about the health insurance
+Bot: **Health Insurance Overview**
+
+- **Premium Health Plan**
+  - Coverage: ₹10 lakh
+  - Annual premium: ₹12,000
+  - ICU coverage included
+  - Ambulance charges up to ₹5,000
+  - Cashless hospitalization
+  - Annual health check‑up
+
+- **Basic Health Plan**
+  - Coverage: ₹5 lakh
+  - Annual premium: ₹7,500
+  - Cashless hospitalization
+  - Free annual health check‑up
+  - Pre‑existing disease waiting period: 3 years
+
+- **Family Floater Plan**
+  - Coverage: ₹15 lakh
+  - Covers two adults and two children
+  - Annual premium: ₹16,500
+  - Cashless hospitalization
+
+**Common Coverage Elements**
+
+- Hospitalization
+- ICU expenses
+- Emergency treatment
+- Ambulance charges
+- Cashless treatment
+- Day‑care procedures
+- Accident‑related expenses
+
+**Key Points**
+
+- The Premium Health Plan offers higher protection and extra benefits compared to the Basic Health Plan.
+- The Family Floater Plan is ideal for families needing a single policy for all members.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- What is the Basic Health Plan premium?
+- Is cashless hospitalization available?
+- What documents are required for a claim?
+- How long does claim approval take?
+- What payment methods are accepted?
+- Can I renew my policy online?
+
+
+[2026-08-19 20:00:50.864376]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+- **Premium Health Plan**
+  - Coverage: ₹10 lakh
+  - Annual premium: ₹12,000
+  - ICU coverage included
+  - Ambulance charges up to ₹5,000
+  - Cashless hospitalization
+  - Annual health check‑up
+
+- **Basic Health Plan**
+  - Coverage: ₹5 lakh
+  - Annual premium: ₹7,500
+  - Cashless hospitalization
+  - Free annual health check‑up
+  - Pre‑existing disease waiting period: 3 years
+
+- **Family Floater Plan**
+  - Coverage: ₹15 lakh
+  - Covers two adults and two children
+  - Annual premium: ₹16,500
+  - Cashless hospitalization
+
+**Coverage Types (common to plans)**
+- Hospitalization
+- ICU expenses
+- Emergency treatment
+- Ambulance charges
+- Cashless treatment
+- Day‑care procedures
+- Accident‑related expenses
+
+**Eligibility**
+- Minimum age: 18 years
+- Maximum age: 65 years
+
+**Waiting Periods**
+- Pre‑existing diseases: 3 years (Basic Health Plan)
+- Accident‑related hospitalization: immediate coverage
+- Maternity benefits: policy‑dependent
+
+Feel free to ask if you’d like to compare plans or know more details.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- What is the Basic Health Plan premium?
+- Is cashless hospitalization available?
+- What documents are required for a claim?
+- How long does claim approval take?
+- What payment methods are accepted?
+- Can I renew my policy online?
+
+
+[2026-08-19 20:01:29.243801]
+User: can I pay using upi
+Bot: **UPI Payment**
+
+- Yes, you can pay your insurance premium using UPI.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- What is the Basic Health Plan premium?
+- Is cashless hospitalization available?
+- What documents are required for a claim?
+- How long does claim approval take?
+- What payment methods are accepted?
+- Can I renew my policy online?
+
+
+[2026-08-19 20:05:37.592238]
+User: about travel insurance
+Bot: **Travel Insurance Overview**
+
+- **Domestic Travel Plan**
+  - Covers medical emergencies, trip cancellation, and lost baggage.
+
+- **International Travel Plan**
+  - Medical coverage up to ₹50 lakh.
+  - Passport loss assistance.
+  - Emergency evacuation.
+  - Lost baggage support.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- What is the Basic Health Plan premium?
+- Is cashless hospitalization available?
+- What documents are required for a claim?
+- How long does claim approval take?
+- What payment methods are accepted?
+- Can I renew my policy online?
+
+
+[2026-08-19 20:06:05.989120]
+User: humman support u provide
+Bot: I don't have that information.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- What is the Basic Health Plan premium?
+- Is cashless hospitalization available?
+- What documents are required for a claim?
+- How long does claim approval take?
+- What payment methods are accepted?
+- Can I renew my policy online?
+
+
+[2026-08-19 21:09:48.484196]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+- **Premium Health Plan**
+  - Coverage: ₹10 lakh
+  - Annual premium: ₹12,000
+  - ICU coverage included
+  - Ambulance charges covered up to ₹5,000
+  - Cashless hospitalization
+  - Annual health check‑up
+
+- **Basic Health Plan**
+  - Coverage: ₹5 lakh
+  - Annual premium: ₹7,500
+  - Cashless hospitalization
+  - Free annual health check‑up
+  - Pre‑existing disease waiting period: 3 years
+
+- **Family Floater Plan**
+  - Coverage: ₹15 lakh
+  - Covers two adults and two children
+  - Annual premium: ₹16,500
+  - Cashless hospitalization
+
+**Common Coverage Elements**
+
+- Hospitalization
+- ICU expenses
+- Emergency treatment
+- Ambulance charges
+- Cashless treatment
+- Day‑care procedures
+- Accident‑related expenses
+
+**Eligibility**
+
+- Minimum age: 18 years
+- Maximum age: 65 years (for health insurance)
+
+Feel free to let me know if you’d like to compare these plans or need details on a specific one.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- What is the Basic Health Plan premium?
+- Is cashless hospitalization available?
+- What documents are required for a claim?
+- How long does claim approval take?
+- What payment methods are accepted?
+- Can I renew my policy online?
+
+
+[2026-08-19 21:11:44.086181]
+User: What Travel Insurance plans are available?
+Bot: **Travel Insurance Plans**
+
+- **Domestic Travel Plan**
+  - Covers medical emergencies, trip cancellation, and lost baggage.
+
+- **International Travel Plan**
+  - Provides medical coverage up to ₹50 lakh, passport loss assistance, emergency evacuation, and lost baggage support.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- What is the Basic Health Plan premium?
+- Is cashless hospitalization available?
+- What documents are required for a claim?
+- How long does claim approval take?
+- What payment methods are accepted?
+- Can I renew my policy online?
+
+
+[2026-08-19 21:12:16.083208]
+User: what human support
+Bot: **Human Support Options**
+
+- Callback  
+- Insurance Advisor  
+- Assistance comparing plans  
+
+Human support is available whenever you request it.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- What is the Basic Health Plan premium?
+- Is cashless hospitalization available?
+- What documents are required for a claim?
+- How long does claim approval take?
+- What payment methods are accepted?
+- Can I renew my policy online?
+
+
+[2026-08-19 21:12:47.111981]
+User: I need a call back
+Bot: **Callback Request**
+
+- We can arrange a callback for you.  
+- Please let us know your preferred time or we’ll call you shortly.
+
+---
+
+### You can also ask:
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- What is the Basic Health Plan premium?
+- Is cashless hospitalization available?
+- What documents are required for a claim?
+- How long does claim approval take?
+- What payment methods are accepted?
+- Can I renew my policy online?
+
+
+[2026-08-19 22:05:44.285505]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+Health insurance protects you against high medical costs.  
+Darwix offers several plans that cater to different needs and budgets.
+
+---
+
+### 1. Premium Health Plan  
+- **Coverage:** ₹10 lakh  
+- **Annual premium:** ₹12,000  
+- **Key benefits:**  
+  - ICU coverage included  
+  - Ambulance charges covered up to ₹5,000  
+  - Cashless hospitalization  
+  - Annual health check‑up  
+- **Why choose it?** Higher protection and extra benefits compared to the Basic plan.
+
+### 2. Basic Health Plan  
+- **Coverage:** ₹5 lakh  
+- **Annual premium:** ₹7,500  
+- **Key benefits:**  
+  - Cashless hospitalization  
+  - Free annual health check‑up  
+  - Pre‑existing disease waiting period of 3 years  
+- **Ideal for:** Individuals looking for affordable coverage.
+
+### 3. Family Floater Plan  
+- **Coverage:** ₹15 lakh  
+- **Annual premium:** ₹16,500  
+- **Key benefits:**  
+  - Covers two adults and two children  
+  - Cashless hospitalization  
+- **Ideal for:** Families wanting a single policy for all members.
+
+---
+
+### Common Coverage Elements  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+---
+
+### Eligibility  
+- Minimum age: 18 years  
+- Maximum age: 65 years  
+
+---
+
+If you’re interested in buying, renewing, comparing plans, or getting a quote, you can use the **Request Callback** tab. Feel free to ask any specific questions!
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:08:58.800443]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**  
+Health insurance protects you against high medical costs. Darwix offers several plans that cater to different needs and budgets.
+
+---
+
+### Premium Health Plan  
+- **Coverage:** ₹10 lakh  
+- **Annual premium:** ₹12,000  
+- **Key benefits:**  
+  - ICU coverage included  
+  - Ambulance charges covered up to ₹5,000  
+  - Cashless hospitalization  
+  - Annual health check‑up  
+- **Why choose it?** Higher protection and extra benefits compared to the Basic plan.
+
+---
+
+### Basic Health Plan  
+- **Coverage:** ₹5 lakh  
+- **Annual premium:** ₹7,500  
+- **Key benefits:**  
+  - Cashless hospitalization  
+  - Free annual health check‑up  
+  - Pre‑existing disease waiting period of 3 years  
+- **Ideal for:** Individuals looking for affordable coverage.
+
+---
+
+### Family Floater Plan  
+- **Coverage:** ₹15 lakh  
+- **Annual premium:** ₹16,500  
+- **Key benefits:**  
+  - Covers two adults and two children  
+  - Cashless hospitalization  
+- **Ideal for:** Families wanting a single policy for all members.
+
+---
+
+### Coverage Details (common to many plans)  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+---
+
+### Eligibility  
+- **Minimum age:** 18 years  
+- **Maximum age:** 65 years (for health plans)  
+
+---
+
+### Waiting Periods  
+- **Pre‑existing diseases:** 3 years (Basic Health Plan)  
+- **Accident‑related hospitalization:** immediate coverage  
+- **Maternity benefits:** policy‑dependent  
+
+---
+
+If you’d like to compare these plans, get a quote, or discuss which one suits you best, you can use the **Request Callback** tab.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:09:36.598430]
+User:  i want to buy insurance
+Bot: **Let’s Get Started!**
+
+- Which type of insurance are you interested in?  
+  - Health (Basic or Premium)  
+  - Life (Secure Life or Family Floater)  
+  - Motor (Third‑Party or Comprehensive)
+
+- For a personalized quote and to discuss the best plan for you, please use the **Request Callback** tab.  
+  - Our team will reach out to walk you through the options and answer any questions.
+
+### Next Step
+If you'd like personalised assistance, please open the **Request Callback** tab and share your name and phone number.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:10:16.904662]
+User: the premium is too high
+Bot: **Premium Concerns**
+
+- The Premium Health Plan’s annual premium is ₹12,000 for coverage of ₹10 lakh.  
+- It includes ICU coverage, ambulance charges up to ₹5,000, cashless hospitalization, and an annual health check‑up.  
+- Compared to the Basic Health Plan, this plan offers higher protection and additional benefits.
+
+If you’re looking for a more affordable option or want to explore other plans, you might consider the Basic Health Plan or discuss your needs with one of our agents.  
+
+**Next Steps**
+
+- **Request a Callback** – We can connect you with a specialist who can review your budget and recommend the best plan for you.  
+- **Explore Payment Options** – You can pay monthly or yearly using UPI, debit/credit card, net banking, or auto debit.  
+
+Let me know if you’d like me to set up a callback or provide more details!
+
+### Next Step
+If you'd like personalised assistance, please open the **Request Callback** tab and share your name and phone number.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:11:03.945242]
+User: i want human advisor
+Bot: **Next Steps**
+
+- To speak with a human advisor, please click the **Request Callback** tab.  
+- A member of our support team will reach out to you shortly.  
+
+Let me know if there’s anything else I can help with!
+
+Certainly. Please use the **Request Callback** tab and a Darwix Insurance advisor can contact you.
+
+### Next Step
+If you'd like personalised assistance, please open the **Request Callback** tab and share your name and phone number.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:13:43.061987]
+User: human advisor i need
+Bot: **Connecting You to a Human Advisor**
+
+- Please use the **Request Callback** tab to schedule a call with an insurance advisor.
+
+Certainly. Please use the **Request Callback** tab and a Darwix Insurance advisor can contact you.
+
+### Next Step
+If you'd like personalised assistance, please open the **Request Callback** tab and share your name and phone number.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:14:00.484928]
+User: is there any timing you contact to resolve this problem
+Bot: I don't have that information.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:14:54.727892]
+User: Tell me about Life Insurance
+Bot: **Life Insurance Plans**
+
+**Secure Life Plan**  
+- Coverage: ₹50 lakh  
+- Entry age: 18 to 55 years  
+- Policy term: 10 to 30 years  
+- Premium payment: Monthly or yearly  
+
+**Lifetime Protection Plan**  
+- Coverage: ₹1 crore  
+- Entry age: 18 to 60 years  
+- Coverage continues until age 75  
+- Accidental death benefit included  
+
+---
+
+**Coverage Details (for both plans)**  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+---
+
+**Eligibility**  
+- Minimum age: 18 years  
+- Maximum age: depends on the selected plan (see entry age above)  
+
+---
+
+If you’d like to compare these plans, get a quote, or discuss a policy that fits your needs, you can use the **Request Callback** tab to speak with one of our specialists.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:16:29.894901]
+User: tell me about the health insurance
+Bot: **Health Insurance Overview**
+
+Darwix Insurance offers several health plans to suit different needs and budgets. Below is a quick look at the main options:
+
+---
+
+### Premium Health Plan
+- **Coverage:** ₹10 lakh
+- **Annual Premium:** ₹12,000
+- **Key Benefits:**
+  - ICU coverage included
+  - Ambulance charges covered up to ₹5,000
+  - Cashless hospitalization
+  - Annual health check‑up
+
+---
+
+### Basic Health Plan
+- **Coverage:** ₹5 lakh
+- **Annual Premium:** ₹7,500
+- **Key Benefits:**
+  - Cashless hospitalization
+  - Free annual health check‑up
+  - Pre‑existing disease waiting period of 3 years
+- **Ideal for:** Individuals looking for affordable coverage
+
+---
+
+### Family Floater Plan
+- **Coverage:** ₹15 lakh
+- **Annual Premium:** ₹16,500
+- **Key Benefits:**
+  - Covers two adults and two children
+  - Cashless hospitalization
+- **Ideal for:** Families wanting a single policy for all members
+
+---
+
+### General Coverage Options (across plans)
+- Hospitalization
+- ICU expenses
+- Emergency treatment
+- Ambulance charges
+- Cashless treatment
+- Day‑care procedures
+- Accident‑related expenses
+
+---
+
+If you’d like to compare these plans in more detail or get a personalized quote, you can use the **Request Callback** tab.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:16:53.643258]
+User: I need assistance
+Bot: I don't have that information.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:17:18.511960]
+User: I need contact advisor
+Bot: **Next Steps**
+
+- Click the **Request Callback** tab to schedule a time for an advisor to call you.  
+- An insurance professional will reach out to discuss your needs and answer any questions.
+
+Certainly. Please use the **Request Callback** tab and a Darwix Insurance advisor can contact you.
+
+### Next Step
+If you'd like personalised assistance, please open the **Request Callback** tab and share your name and phone number.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:18:49.202365]
+User: hi
+Bot: I don't have that information.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:19:13.987068]
+User: about health nsurance
+Bot: **Health Insurance Overview**
+
+- Health insurance protects you against high medical costs.
+- Darwix offers several plans tailored to different needs and budgets.
+
+---
+
+### Premium Health Plan
+
+- **Coverage:** ₹10 lakh
+- **Annual premium:** ₹12,000
+- **Key benefits:**
+  - ICU coverage included
+  - Ambulance charges covered up to ₹5,000
+  - Cashless hospitalization
+  - Annual health check‑up
+
+---
+
+### Basic Health Plan
+
+- **Coverage:** ₹5 lakh
+- **Annual premium:** ₹7,500
+- **Key benefits:**
+  - Cashless hospitalization
+  - Free annual health check‑up
+  - Pre‑existing disease waiting period of 3 years
+
+---
+
+### Coverage Details (common to many plans)
+
+- Hospitalization
+- ICU expenses
+- Emergency treatment
+- Ambulance charges
+- Cashless treatment
+- Day‑care procedures
+- Accident‑related expenses
+
+---
+
+### Waiting Periods
+
+- **Pre‑existing diseases:** 3 years (under the Basic Health Plan)
+- **Accident‑related hospitalization:** immediate coverage
+- **Maternity benefits:** depends on the selected policy
+
+---
+
+If you’d like to compare these plans, get a quote, or discuss which one suits you best, you can use the **Request Callback** tab to speak with a Darwix representative.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:19:31.906064]
+User: need to buy insurance
+Bot: **Looking to Buy Insurance?**  
+Here are a few of the plans we offer:
+
+- **Premium Health Plan** – ₹10 lakh coverage, ₹12,000 annual premium, ICU & ambulance included, cashless hospitalization, annual check‑up.  
+- **Basic Health Plan** – ₹5 lakh coverage, ₹7,500 annual premium, cashless hospitalization, free annual check‑up, 3‑year waiting period for pre‑existing diseases.  
+- **Family Floater Plan** – ₹15 lakh coverage for two adults and two children, ₹16,500 annual premium, cashless hospitalization.  
+- **Third‑Party Motor Insurance** – mandatory coverage for third‑party property damage and injury.  
+- **Comprehensive Motor Insurance** – covers own vehicle damage, theft, fire, flood, natural disasters, and roadside assistance.  
+- **Secure Life Plan** – ₹50 lakh life coverage, age 18‑55, term 10‑30 years, monthly or yearly premium options.
+
+**Next Steps**  
+If you’d like a personalized quote, comparison, or to start the application process, please use the **Request Callback** tab. A member of our team will reach out to guide you through the best option for your needs.
+
+### Next Step
+If you'd like personalised assistance, please open the **Request Callback** tab and share your name and phone number.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:25:44.478079]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+Health insurance protects you against high medical costs by covering a range of medical expenses.  
+Below are the main plans offered by Darwix Insurance and what they include.
+
+---
+
+### Premium Health Plan  
+- **Coverage:** ₹10 lakh  
+- **Annual premium:** ₹12,000  
+- **Key benefits:**  
+  - ICU coverage included  
+  - Ambulance charges covered up to ₹5,000  
+  - Cashless hospitalization  
+  - Annual health check‑up  
+- **Why choose it?** Offers higher protection and extra benefits compared to the Basic plan.
+
+---
+
+### Basic Health Plan  
+- **Coverage:** ₹5 lakh  
+- **Annual premium:** ₹7,500  
+- **Key benefits:**  
+  - Cashless hospitalization  
+  - Free annual health check‑up  
+  - Pre‑existing disease waiting period of 3 years  
+- **Ideal for:** Individuals looking for affordable coverage.
+
+---
+
+### Family Floater Plan  
+- **Coverage:** ₹15 lakh  
+- **Annual premium:** ₹16,500  
+- **Key benefits:**  
+  - Covers two adults and two children under one policy  
+  - Cashless hospitalization  
+- **Ideal for:** Families wanting a single, comprehensive policy.
+
+---
+
+### What’s Covered (depending on the policy)  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+---
+
+### Eligibility  
+- **Minimum age:** 18 years  
+- **Maximum age:** 65 years (for health plans)  
+
+---
+
+### Waiting Periods  
+- **Pre‑existing diseases:** 3 years (Basic Health Plan)  
+- **Accident‑related hospitalization:** Immediate coverage  
+- **Maternity benefits:** Varies by policy  
+
+---
+
+If you’d like to explore a plan that fits your needs or get a personalized quote, feel free to let me know. I can guide you to the **Request Callback** tab for a quick conversation with a human agent.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 22:27:25.773939]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+Health insurance protects you against high medical costs by covering a range of medical expenses.  
+Below are the main plans offered by Darwix Insurance and what each covers.
+
+---
+
+### Premium Health Plan  
+- **Coverage:** ₹10 lakh  
+- **Annual premium:** ₹12,000  
+- **Key benefits:**  
+  - ICU coverage included  
+  - Ambulance charges covered up to ₹5,000  
+  - Cashless hospitalization  
+  - Annual health check‑up  
+- **Why choose it?** Higher protection and extra benefits compared to the Basic plan.
+
+### Basic Health Plan  
+- **Coverage:** ₹5 lakh  
+- **Annual premium:** ₹7,500  
+- **Key benefits:**  
+  - Cashless hospitalization  
+  - Free annual health check‑up  
+  - Pre‑existing disease waiting period of 3 years  
+- **Ideal for:** Individuals looking for affordable coverage.
+
+### Family Floater Plan  
+- **Coverage:** ₹15 lakh  
+- **Annual premium:** ₹16,500  
+- **Key benefits:**  
+  - Covers two adults and two children  
+  - Cashless hospitalization  
+- **Ideal for:** Families wanting a single policy for all members.
+
+---
+
+### What’s Covered (depending on the policy)  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+---
+
+### Eligibility  
+- **Minimum age:** 18 years  
+- **Maximum age:** 65 years (for health insurance)  
+
+---
+
+### Waiting Periods  
+- **Pre‑existing diseases:** 3 years (Basic Health Plan)  
+- **Accident‑related hospitalization:** immediate coverage  
+- **Maternity benefits:** policy‑dependent  
+
+---
+
+If you’re interested in buying, renewing, comparing plans, or getting a quote, you can use the **Request Callback** tab to speak with a representative.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 23:39:42.477629]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+Health insurance protects you against high medical costs by covering a range of medical expenses. Darwix Insurance offers several plans tailored to different needs and budgets.
+
+---
+
+### Available Plans
+
+- **Premium Health Plan**
+  - Coverage: ₹10 lakh
+  - Annual premium: ₹12,000
+  - Features: ICU coverage, ambulance charges up to ₹5,000, cashless hospitalization, annual health check‑up
+
+- **Basic Health Plan**
+  - Coverage: ₹5 lakh
+  - Annual premium: ₹7,500
+  - Features: cashless hospitalization, free annual health check‑up, 3‑year pre‑existing disease waiting period
+
+- **Family Floater Plan**
+  - Coverage: ₹15 lakh
+  - Covers two adults and two children
+  - Annual premium: ₹16,500
+  - Features: cashless hospitalization
+
+---
+
+### Coverage Details
+
+Depending on the selected policy, coverage may include:
+
+- Hospitalization
+- ICU expenses
+- Emergency treatment
+- Ambulance charges
+- Cashless treatment
+- Day‑care procedures
+- Accident‑related expenses
+
+---
+
+### Eligibility
+
+- **Minimum age:** 18 years  
+- **Maximum age:** 65 years (for health insurance; life insurance may vary by plan)
+
+---
+
+### Key Features to Note
+
+- **Cashless hospitalization** is available on all plans.
+- **Annual health check‑ups** are included in both the Premium and Basic plans.
+- **Pre‑existing disease waiting period** is 3 years under the Basic Health Plan.
+- **ICU coverage** is part of the Premium Health Plan.
+- **Ambulance coverage** up to ₹5,000 is included in the Premium Health Plan.
+
+---
+
+If you’re interested in buying, renewing, comparing plans, or getting a quote, please use the **Request Callback** tab so a Darwix representative can assist you further.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-19 23:40:24.792036]
+User: tell me about the insurance
+Bot: **What Darwix Insurance Offers**
+
+**Health Insurance**  
+- **Basic Health Plan**  
+  - ₹5 lakh coverage  
+  - ₹7,500 annual premium  
+  - Cashless hospitalization, free annual check‑up  
+  - 3‑year waiting period for pre‑existing diseases  
+
+- **Premium Health Plan**  
+  - ₹10 lakh coverage  
+  - ₹12,000 annual premium  
+  - ICU coverage, ambulance charges up to ₹5,000  
+  - Cashless hospitalization, annual health check‑up  
+
+- **Family Floater Plan**  
+  - ₹15 lakh coverage for two adults and two children  
+  - ₹16,500 annual premium  
+  - Cashless hospitalization  
+
+**Motor Insurance**  
+- **Third Party Plan** – mandatory by law, covers third‑party property damage and injury claims.  
+- **Comprehensive Motor Insurance Plan** – covers own vehicle damage, theft, fire, flood, natural disasters, and roadside assistance.  
+
+**Travel Insurance**  
+- **Domestic Travel Plan** – medical emergencies, trip cancellation, lost baggage.  
+- **International Travel Plan** – medical coverage up to ₹50 lakh, passport loss assistance, emergency evacuation, lost baggage support.  
+
+If you’d like to explore a specific plan or get a personalized quote, let me know and I can direct you to the **Request Callback** tab.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:16:27.948133]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+Health insurance protects you against high medical costs by covering a range of medical expenses.  
+Below are the main plans offered by Darwix Insurance and what each covers.
+
+---
+
+### 1. Premium Health Plan  
+- **Coverage:** ₹10 lakh  
+- **Annual premium:** ₹12,000  
+- **Key benefits:**  
+  - ICU coverage included  
+  - Ambulance charges covered up to ₹5,000  
+  - Cashless hospitalization  
+  - Annual health check‑up  
+
+This plan offers higher protection and extra benefits compared to the Basic Health Plan.
+
+---
+
+### 2. Basic Health Plan  
+- **Coverage:** ₹5 lakh  
+- **Annual premium:** ₹7,500  
+- **Key benefits:**  
+  - Cashless hospitalization  
+  - Free annual health check‑up  
+  - Pre‑existing disease waiting period of 3 years  
+
+Ideal for individuals looking for affordable coverage.
+
+---
+
+### 3. Family Floater Plan  
+- **Coverage:** ₹15 lakh  
+- **Annual premium:** ₹16,500  
+- **Key benefits:**  
+  - Covers two adults and two children  
+  - Cashless hospitalization  
+
+Designed for families who want a single policy for all members.
+
+---
+
+### Common Coverage Elements  
+Depending on the selected policy, coverage may include:  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+---
+
+### Eligibility  
+- **Minimum age:** 18 years  
+- **Maximum age:** 65 years (for health insurance)  
+
+---
+
+### Waiting Periods  
+- Pre‑existing diseases: 3 years (under the Basic Health Plan)  
+- Accident‑related hospitalization: immediate coverage  
+- Maternity benefits: depends on the selected policy  
+
+---
+
+If you’re interested in buying, renewing, comparing plans, or getting a quote, you can use the **Request Callback** tab to speak with a representative.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:17:14.836120]
+User: Compare Health Insurance plans
+Bot: ## Health Insurance Plans at a Glance
+
+### Premium Health Plan  
+- **Coverage**: ₹10 lakh  
+- **Annual Premium**: ₹12,000  
+- **Key Benefits**  
+  - ICU coverage included  
+  - Ambulance charges covered up to ₹5,000  
+  - Cashless hospitalization  
+  - Annual health check‑up  
+
+### Basic Health Plan  
+- **Coverage**: ₹5 lakh  
+- **Annual Premium**: ₹7,500  
+- **Key Benefits**  
+  - Cashless hospitalization  
+  - Free annual health check‑up  
+  - Pre‑existing disease waiting period of 3 years  
+
+### Family Floater Plan (for comparison)  
+- **Coverage**: ₹15 lakh  
+- **Annual Premium**: ₹16,500  
+- **Key Benefits**  
+  - Covers two adults and two children  
+  - Cashless hospitalization  
+
+---
+
+## How They Stack Up
+
+| Feature | Premium Health Plan | Basic Health Plan | Family Floater Plan |
+|---------|---------------------|-------------------|---------------------|
+| **Coverage Amount** | ₹10 lakh | ₹5 lakh | ₹15 lakh |
+| **Annual Premium** | ₹12,000 | ₹7,500 | ₹16,500 |
+| **ICU Coverage** | Included | Not specified | Not specified |
+| **Ambulance Charges** | Up to ₹5,000 | Not specified | Not specified |
+| **Cashless Hospitalization** | Yes | Yes | Yes |
+| **Annual Health Check‑up** | Yes | Yes | Not specified |
+| **Pre‑existing Disease Waiting Period** | Not mentioned | 3 years | Not mentioned |
+| **Target Audience** | Those wanting higher protection and extra benefits | Individuals seeking affordable coverage | Families needing a single policy for all members |
+
+---
+
+### Takeaway
+
+- **Premium Health Plan** offers the highest coverage and extra perks like ICU and ambulance coverage, making it ideal if you want comprehensive protection and are willing to pay a slightly higher premium.
+- **Basic Health Plan** is a budget‑friendly option with essential benefits, suitable for individuals who need basic coverage without the extra features.
+- **Family Floater Plan** provides the largest coverage and covers multiple family members under one policy, but it comes at a higher premium.
+
+If you’d like to discuss which plan fits your needs best or want a personalized quote, feel free to **request a callback**.
+
+### Next Step
+If you'd like personalised assistance, please open the **Request Callback** tab and share your name and phone number.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:31:31.353430]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+Health insurance protects you against high medical costs by covering a range of medical expenses. Darwix Insurance offers several plans to suit different needs and budgets.
+
+---
+
+### 1. Plans We Offer
+
+#### Premium Health Plan
+- **Coverage:** ₹10 lakh
+- **Annual premium:** ₹12,000
+- **Key benefits:**  
+  - ICU coverage included  
+  - Ambulance charges covered up to ₹5,000  
+  - Cashless hospitalization  
+  - Annual health check‑up  
+- **Why choose it?** Higher protection and extra benefits compared to the Basic plan.
+
+#### Basic Health Plan
+- **Coverage:** ₹5 lakh
+- **Annual premium:** ₹7,500
+- **Key benefits:**  
+  - Cashless hospitalization  
+  - Free annual health check‑up  
+  - Pre‑existing disease waiting period of 3 years  
+- **Ideal for:** Individuals looking for affordable coverage.
+
+#### Family Floater Plan
+- **Coverage:** ₹15 lakh
+- **Annual premium:** ₹16,500
+- **Key benefits:**  
+  - Covers two adults and two children  
+  - Cashless hospitalization  
+- **Ideal for:** Families wanting a single policy for all members.
+
+---
+
+### 2. What’s Covered
+
+Depending on the policy, coverage may include:
+- Hospitalization
+- ICU expenses
+- Emergency treatment
+- Ambulance charges
+- Cashless treatment
+- Day‑care procedures
+- Accident‑related expenses
+
+---
+
+### 3. Eligibility
+
+- **Minimum age:** 18 years  
+- **Maximum age:** 65 years (for health insurance)
+
+---
+
+### 4. Waiting Periods
+
+- **Pre‑existing diseases:** 3 years (under the Basic Health Plan)  
+- **Accident‑related hospitalization:** Immediate coverage  
+- **Maternity benefits:** Varies by policy
+
+---
+
+If you’d like to compare these plans, get a quote, or renew a policy, let me know and I can guide you to the **Request Callback** tab for personalized assistance.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:32:05.137892]
+User: What is the Basic Health Plan premium?
+Bot: **Basic Health Plan Premium**
+
+- ₹7,500 per year.
+
+### Next Step
+If you'd like personalised assistance, please open the **Request Callback** tab and share your name and phone number.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:32:52.404484]
+User: its too expensive is there any alternative health insurance
+Bot: **Alternative Health Insurance Options**
+
+- **Basic Health Plan**  
+  - Coverage: ₹5 lakh  
+  - Annual premium: ₹7,500  
+  - Cashless hospitalization & free annual check‑up  
+  - 3‑year waiting period for pre‑existing diseases  
+
+- **Family Floater Plan**  
+  - Coverage: ₹15 lakh (covers two adults & two children)  
+  - Annual premium: ₹16,500  
+  - Cashless hospitalization  
+
+These plans offer lower premiums than the Premium Health Plan while still providing solid coverage.  
+
+If you’d like to compare these plans in more detail or get a personalized quote, please use the **Request Callback** tab.
+
+The Basic Health Plan is our affordable option with ₹5 lakh coverage and an annual premium of ₹7,500.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:32:58.097928]
+User: its too expensive is there any alternative health insurance
+Bot: **Alternative Health Insurance Options**
+
+- **Basic Health Plan**
+  - Coverage: ₹5 lakh
+  - Annual premium: ₹7,500
+  - Cashless hospitalization
+  - Free annual health check‑up
+  - 3‑year waiting period for pre‑existing diseases
+
+- **Family Floater Plan**
+  - Coverage: ₹15 lakh
+  - Covers two adults and two children
+  - Annual premium: ₹16,500
+  - Cashless hospitalization
+
+If you’d like to compare these plans in more detail or get a personalized quote, please use the **Request Callback** tab.
+
+The Basic Health Plan is our affordable option with ₹5 lakh coverage and an annual premium of ₹7,500.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:33:42.211728]
+User: is pet insurance availble
+Bot: I don't have that information.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:34:13.150215]
+User: tell me about the insurance
+Bot: **What Darwix Insurance Offers**
+
+---
+
+### 1. Coverage Types
+
+- **Health Insurance** – Protects you and your family from medical costs.
+- **Motor Insurance** – Covers your vehicle and legal liabilities.
+- **Travel Insurance** – Safeguards you while you’re on the move, both domestically and abroad.
+
+---
+
+### 2. Health Insurance Plans
+
+| Plan | Coverage Amount | Key Features |
+|------|-----------------|--------------|
+| **Basic Health Plan** | ₹5 lakh | • Annual premium ₹7,500<br>• Cashless hospitalization<br>• Free annual health check‑up<br>• 3‑year waiting period for pre‑existing diseases |
+| **Premium Health Plan** | ₹10 lakh | • Annual premium ₹12,000<br>• ICU coverage included<br>• Ambulance charges up to ₹5,000<br>• Cashless hospitalization<br>• Annual health check‑up |
+| **Family Floater Plan** | ₹15 lakh | • Covers two adults and two children<br>• Annual premium ₹16,500<br>• Cashless hospitalization |
+
+---
+
+### 3. Motor Insurance Options
+
+- **Third‑Party Plan** – Mandatory by law; covers third‑party property damage and injury claims.
+- **Comprehensive Motor Insurance Plan** – Adds protection for own vehicle damage, theft, fire, flood, natural disasters, and roadside assistance.
+
+---
+
+### 4. Travel Insurance Plans
+
+- **Domestic Travel Plan** – Covers medical emergencies, trip cancellation, and lost baggage.
+- **International Travel Plan** – Offers medical coverage up to ₹50 lakh, passport loss assistance, emergency evacuation, and lost baggage support.
+
+---
+
+If you’d like to explore a specific plan, get a quote, or talk to a human agent, just let me know and I can point you to the **Request Callback** tab.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:51:57.126314]
+User: i want the family floater for two adult and 3childrem can all 3 children be covered in insurance
+Bot: **Family Floater Plan – Children Coverage**
+
+- The plan is designed for **two adults and two children** only.  
+- It does **not** cover a third child under the same policy.
+
+If you’d like to explore options that can include a third child, or if you’re interested in getting a quote or discussing alternatives, please let me know. I can arrange a callback for you to talk with one of our specialists.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:55:22.301812]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**  
+Health insurance protects you against high medical costs. At Darwix Insurance we offer several plans that suit different needs and budgets.
+
+---
+
+### Available Plans
+
+**Premium Health Plan**  
+- Coverage: ₹10 lakh  
+- Annual premium: ₹12,000  
+- ICU coverage included  
+- Ambulance charges covered up to ₹5,000  
+- Cashless hospitalization  
+- Annual health check‑up  
+
+**Basic Health Plan**  
+- Coverage: ₹5 lakh  
+- Annual premium: ₹7,500  
+- Cashless hospitalization  
+- Free annual health check‑up  
+- Pre‑existing disease waiting period: 3 years  
+
+**Family Floater Plan**  
+- Coverage: ₹15 lakh  
+- Covers two adults and two children  
+- Annual premium: ₹16,500  
+- Cashless hospitalization  
+
+---
+
+### Coverage Details
+
+Depending on the policy you choose, coverage may include:  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+---
+
+### Eligibility
+
+- **Minimum age:** 18 years  
+- **Maximum age:** 65 years (for health plans)  
+
+---
+
+### Waiting Periods
+
+- **Pre‑existing diseases:** 3 years (Basic Health Plan)  
+- **Accident‑related hospitalization:** immediate coverage  
+- **Maternity benefits:** vary by policy  
+
+---
+
+If you’d like to compare these plans, get a quote, or renew an existing policy, just let me know and I can help you request a callback.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:56:06.805136]
+User: What is the Basic Health Plan premium?
+Bot: **Basic Health Plan Premium**
+
+- Annual premium: **₹7,500**
+
+### Next Step
+If you'd like personalised assistance, please open the **Request Callback** tab and share your name and phone number.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:56:42.294615]
+User: its very expensive health inurance can have any other alternative
+Bot: **Alternative Health Insurance Options**
+
+- **Basic Health Plan**
+  - Coverage: ₹5 lakh  
+  - Annual premium: ₹7,500  
+  - Features:  
+    - Cashless hospitalization  
+    - Free annual health check‑up  
+    - 3‑year waiting period for pre‑existing diseases  
+  - Ideal for those looking for affordable coverage.
+
+- **Family Floater Plan** (if you need a single policy for the whole family)
+  - Coverage: ₹15 lakh  
+  - Annual premium: ₹16,500  
+  - Covers two adults and two children  
+  - Cashless hospitalization
+
+**Next Steps**
+
+If you’d like to compare these plans in more detail or get a personalized quote, please use the **Request Callback** tab. A Darwix representative will reach out to help you choose the best fit for your needs.
+
+The Basic Health Plan is our affordable option with ₹5 lakh coverage and an annual premium of ₹7,500.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:57:31.771683]
+User: is pet insurance available
+Bot: I don't have that information.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:57:55.452978]
+User: i want the family floater for two adult and 3childrem can all 3 children be covered in insurance
+Bot: **Family Floater Plan Coverage**
+
+- The plan is designed for **two adults and two children**.  
+- It does **not** cover a third child under the same policy.
+
+If you’d like to explore options for adding an extra child or discuss a different plan that fits your family’s needs, feel free to **Request a Callback** and one of our agents will help you further.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:58:38.185104]
+User: want to cotact advisor
+Bot: I don't have that information.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 01:58:58.534315]
+User: tell me about insurance
+Bot: **What Insurance Covers**
+
+- **Hospitalization** – Covers costs when you’re admitted to a hospital.  
+- **ICU expenses** – Included in many plans, especially the Premium Health Plan.  
+- **Emergency treatment** – Quick care for sudden illnesses or injuries.  
+- **Ambulance charges** – Up to ₹5,000 covered in the Premium Health Plan.  
+- **Cashless treatment** – Most plans let you receive care without paying upfront.  
+- **Day‑care procedures** – Covered in several health plans.  
+- **Accident‑related expenses** – Included in many health and motor policies.  
+
+---
+
+### Health Insurance Plans
+
+| Plan | Coverage | Key Features |
+|------|----------|--------------|
+| **Basic Health Plan** | ₹5 lakh | • ₹7,500 annual premium<br>• Cashless hospitalization<br>• Free annual check‑up<br>• 3‑year pre‑existing disease waiting period |
+| **Premium Health Plan** | ₹10 lakh | • ₹12,000 annual premium<br>• ICU coverage included<br>• Ambulance up to ₹5,000<br>• Cashless hospitalization<br>• Annual health check‑up |
+| **Family Floater Plan** | ₹15 lakh | • Covers 2 adults + 2 children<br>• ₹16,500 annual premium<br>• Cashless hospitalization |
+
+---
+
+### Motor Insurance
+
+- **Third‑Party Plan** – Mandatory by law; covers third‑party property damage and injury claims.  
+- **Comprehensive Plan** – Covers own vehicle damage, theft, fire, flood, natural disasters, and includes roadside assistance.
+
+---
+
+### Travel Insurance
+
+- **Domestic Travel Plan** – Covers medical emergencies, trip cancellation, and lost baggage.
+
+---
+
+### How to Pay Your Premium
+
+- **Payment Methods** – UPI, Debit Card, Credit Card, Net Banking, Auto Debit.  
+- **Payment Frequency** – Monthly or Yearly.
+
+Feel free to let me know if you’d like more details on a specific plan or how to get a quote!
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:01:51.228960]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+Health insurance helps you manage medical costs and gives you peace of mind.  
+Darwix Insurance offers several plans that suit different needs and budgets.
+
+---
+
+### 1. Premium Health Plan  
+- **Coverage:** ₹10 lakh  
+- **Annual premium:** ₹12,000  
+- **Key benefits:**  
+  - ICU coverage included  
+  - Ambulance charges covered up to ₹5,000  
+  - Cashless hospitalization  
+  - Annual health check‑up  
+
+This plan is ideal if you want higher protection and extra benefits compared to the Basic plan.
+
+---
+
+### 2. Basic Health Plan  
+- **Coverage:** ₹5 lakh  
+- **Annual premium:** ₹7,500  
+- **Key benefits:**  
+  - Cashless hospitalization  
+  - Free annual health check‑up  
+  - Pre‑existing disease waiting period of 3 years  
+
+Best for individuals looking for affordable coverage.
+
+---
+
+### 3. Family Floater Plan  
+- **Coverage:** ₹15 lakh  
+- **Annual premium:** ₹16,500  
+- **Key benefits:**  
+  - Covers two adults and two children  
+  - Cashless hospitalization  
+
+Designed for families who want a single policy for everyone.
+
+---
+
+### 4. What’s Covered (Common to most plans)  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+---
+
+### 5. Eligibility  
+- **Minimum age:** 18 years  
+- **Maximum age:** 65 years (for health plans)  
+
+---
+
+### 6. Waiting Periods  
+- **Pre‑existing diseases:** 3 years (Basic Health Plan)  
+- **Accident‑related hospitalization:** immediate coverage  
+- **Maternity benefits:** policy‑dependent  
+
+---
+
+### 7. How Darwix Can Help  
+- Compare plans side‑by‑side  
+- Provide quotes and renewal options  
+- Assist with claim filing and support  
+
+If you’d like to explore a specific plan, get a quote, or renew, let me know and I can guide you to the **Request Callback** tab for personalized assistance.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:02:19.330185]
+User: What is the Basic Health Plan premium?
+Bot: **Basic Health Plan Premium**
+
+- The annual premium for the Basic Health Plan is **₹7,500**.
+
+### Next Step
+If you'd like personalised assistance, please open the **Request Callback** tab and share your name and phone number.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:02:56.907064]
+User: this plan is too expensive can have any alternative
+Bot: **Alternative Plans You Might Consider**
+
+- **Basic Health Plan**  
+  - Coverage: ₹5 lakh  
+  - Annual premium: ₹7,500  
+  - Cashless hospitalization, free annual health check‑up  
+  - Pre‑existing disease waiting period: 3 years  
+
+- **Family Floater Plan** (if you’re looking for family coverage)  
+  - Coverage: ₹15 lakh  
+  - Covers two adults and two children  
+  - Annual premium: ₹16,500  
+  - Cashless hospitalization  
+
+- **International Travel Plan** (if you need travel protection)  
+  - Medical coverage up to ₹50 lakh  
+  - Passport loss assistance, emergency evacuation, lost baggage support  
+
+If any of these options sound like a better fit for your budget or needs, let me know and I can help you get a quote or set up a callback.
+
+The Basic Health Plan is our affordable option with ₹5 lakh coverage and an annual premium of ₹7,500.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:03:15.500372]
+User: i want the family floater for two adult and 3childrem can all 3 children be covered in insurance
+Bot: **Family Floater Plan – Children Coverage**
+
+- The plan is designed for **two adults and two children**.
+- It does **not** cover a third child under the same policy.
+
+If you’d like to explore options that can include an additional child, or if you’re ready to move forward with a policy, please let me know. I can connect you with a representative through the **Request Callback** tab.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:03:40.893316]
+User: do pet inurance covered
+Bot: I don't have that information.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:04:16.585673]
+User: tell me about the insurance
+Bot: **What Darwix Insurance Offers**
+
+---
+
+### 1. Types of Coverage
+
+- **Hospitalization** – Covers stays in hospital.
+- **ICU Expenses** – Includes intensive care unit costs.
+- **Emergency Treatment** – Immediate medical care when needed.
+- **Ambulance Charges** – Up to ₹5,000 covered in some plans.
+- **Cashless Treatment** – No out‑of‑pocket payment at network hospitals.
+- **Day‑Care Procedures** – Minor surgeries and treatments.
+- **Accident‑Related Expenses** – Costs arising from accidents.
+
+---
+
+### 2. Health Insurance Plans
+
+| Plan | Coverage | Key Features |
+|------|----------|--------------|
+| **Basic Health Plan** | ₹5 lakh | • ₹7,500 annual premium<br>• Cashless hospitalization<br>• Free annual health check‑up<br>• 3‑year waiting period for pre‑existing diseases |
+| **Premium Health Plan** | ₹10 lakh | • ₹12,000 annual premium<br>• ICU coverage included<br>• Ambulance charges up to ₹5,000<br>• Cashless hospitalization<br>• Annual health check‑up |
+| **Family Floater Plan** | ₹15 lakh | • Covers 2 adults + 2 children<br>• ₹16,500 annual premium<br>• Cashless hospitalization |
+
+---
+
+### 3. Motor Insurance
+
+- **Third‑Party Plan** – Mandatory by law; covers third‑party property damage and injury claims.
+- **Comprehensive Motor Insurance Plan** – Covers own vehicle damage, theft, fire, flood, natural disasters, and provides roadside assistance.
+
+---
+
+### 4. Travel Insurance
+
+- **Domestic Travel Plan** – Covers medical emergencies, trip cancellation, and lost baggage.
+- **International Travel Plan** – Provides medical coverage up to ₹50 lakh, passport loss assistance, emergency evacuation, and lost baggage support.
+
+---
+
+If you’d like to explore a specific plan or get a personalized quote, feel free to let me know!
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:06:04.501154]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+Health insurance protects you against high medical costs.  
+Darwix offers several plans that suit different needs and budgets.
+
+---
+
+### 1. Premium Health Plan  
+- **Coverage:** ₹10 lakh  
+- **Annual premium:** ₹12,000  
+- **Key benefits:**  
+  - ICU coverage included  
+  - Ambulance charges covered up to ₹5,000  
+  - Cashless hospitalization  
+  - Annual health check‑up  
+
+This plan gives higher protection and extra perks compared to the Basic plan.
+
+---
+
+### 2. Basic Health Plan  
+- **Coverage:** ₹5 lakh  
+- **Annual premium:** ₹7,500  
+- **Key benefits:**  
+  - Cashless hospitalization  
+  - Free annual health check‑up  
+  - Pre‑existing disease waiting period: 3 years  
+
+Ideal for individuals looking for affordable coverage.
+
+---
+
+### 3. Family Floater Plan  
+- **Coverage:** ₹15 lakh  
+- **Annual premium:** ₹16,500  
+- **Key benefits:**  
+  - Covers two adults and two children  
+  - Cashless hospitalization  
+
+Designed for families who want a single policy for all members.
+
+---
+
+### Common Coverage Features  
+Depending on the chosen policy, you may get:  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+---
+
+### Eligibility  
+- **Minimum age:** 18 years  
+- **Maximum age:** 65 years (for health plans)  
+
+---
+
+### Waiting Periods  
+- Pre‑existing diseases: 3 years (Basic Health Plan)  
+- Accident‑related hospitalization: immediate coverage  
+- Maternity benefits: policy‑dependent  
+
+---
+
+If you’re interested in buying, renewing, or comparing plans, or if you’d like a quote, please use the **Request Callback** tab.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:06:26.113969]
+User: i want the family floater for two adult and 3childrem can all 3 children be covered in insurance
+Bot: **Family Floater Plan Coverage**
+
+- Covers **two adults** and **two children**  
+- Annual premium: ₹16,500  
+- Cashless hospitalization
+
+**Answer to Your Question**
+
+- The current Family Floater Plan is designed for **two adults and two children only**.  
+- It does **not** include coverage for a third child under this plan.
+
+**Next Steps**
+
+- If you’d like to explore options that can cover an additional child, or discuss a different plan that meets your family’s needs, please use the **Request Callback** tab.  
+- A representative will be happy to help you find the best solution.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:06:45.385553]
+User: tell me about the insurance
+Bot: **What Darwix Insurance Offers**
+
+---
+
+### Coverage Options  
+- **Hospitalization**  
+- **ICU expenses**  
+- **Emergency treatment**  
+- **Ambulance charges**  
+- **Cashless treatment**  
+- **Day‑care procedures**  
+- **Accident‑related expenses**
+
+---
+
+### Health Insurance Plans  
+
+| Plan | Coverage | Key Features |
+|------|----------|--------------|
+| **Premium Health Plan** | ₹10 lakh | • Annual premium ₹12,000<br>• ICU coverage included<br>• Ambulance up to ₹5,000<br>• Cashless hospitalization<br>• Annual health check‑up |
+| **Family Floater Plan** | ₹15 lakh | • Covers 2 adults + 2 children<br>• Annual premium ₹16,500<br>• Cashless hospitalization |
+| **Basic Health Plan** | ₹5 lakh | • Annual premium ₹7,500<br>• Cashless hospitalization<br>• Free annual health check‑up<br>• 3‑year waiting period for pre‑existing diseases |
+
+---
+
+### Motor Insurance  
+
+- **Third‑Party Plan** – mandatory by law; covers third‑party property damage and injury claims.  
+- **Comprehensive Motor Insurance Plan** – covers own vehicle damage, theft, fire, flood, natural disasters, and roadside assistance.
+
+---
+
+### Travel Insurance  
+
+- **Domestic Travel Plan** – medical emergencies, trip cancellation, lost baggage.  
+- **International Travel Plan** – medical coverage up to ₹50 lakh, passport loss assistance, emergency evacuation, lost baggage support.
+
+---
+
+If you’d like to explore a specific plan or get a personalized quote, feel free to let me know. I can also help you request a callback from one of our agents.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:10:41.999972]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+Health insurance protects you against high medical costs by covering a range of medical expenses. Darwix Insurance offers several plans to suit different needs and budgets.
+
+---
+
+### 1. Premium Health Plan
+- **Coverage:** ₹10 lakh
+- **Annual premium:** ₹12,000
+- **Key benefits:**
+  - ICU coverage included
+  - Ambulance charges covered up to ₹5,000
+  - Cashless hospitalization
+  - Annual health check‑up
+
+---
+
+### 2. Basic Health Plan
+- **Coverage:** ₹5 lakh
+- **Annual premium:** ₹7,500
+- **Key benefits:**
+  - Cashless hospitalization
+  - Free annual health check‑up
+  - Pre‑existing disease waiting period of 3 years
+- **Ideal for:** Individuals looking for affordable coverage
+
+---
+
+### 3. Family Floater Plan
+- **Coverage:** ₹15 lakh
+- **Annual premium:** ₹16,500
+- **Key benefits:**
+  - Covers two adults and two children
+  - Cashless hospitalization
+- **Ideal for:** Families wanting a single policy for all members
+
+---
+
+### 4. What’s Covered (Common to Most Plans)
+- Hospitalization
+- ICU expenses
+- Emergency treatment
+- Ambulance charges
+- Cashless treatment
+- Day‑care procedures
+- Accident‑related expenses
+
+---
+
+### 5. Eligibility
+- **Minimum age:** 18 years
+- **Maximum age:** 65 years (for health insurance)
+
+---
+
+If you’re interested in buying, renewing, or comparing these plans, or if you’d like a personalized quote, you can use the **Request Callback** tab to speak with a human agent.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:11:40.973758]
+User: is pet insurance avialable
+Bot: I don't have that information.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:11:58.434607]
+User: i want the family floater for two adult and 3childrem can all 3 children be covered in insurance
+Bot: **Coverage Details**
+
+- The Family Floater Plan covers **two adults** and **two children**.  
+- It does **not** include a third child.
+
+**Can a third child be covered?**
+
+- No, the plan is limited to two children.
+
+**Next Steps**
+
+- If you’d like to discuss options or get a quote, please use the **Request Callback** tab.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:12:24.545346]
+User: tell me about the
+Bot: I don't have that information.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:12:45.093668]
+User: tell me about the insurance
+Bot: **What Darwix Insurance Offers**
+
+---
+
+### 1. Health Insurance  
+- **Basic Health Plan**  
+  - Coverage: ₹5 lakh  
+  - Annual premium: ₹7,500  
+  - Cashless hospitalization, free annual check‑up  
+  - 3‑year waiting period for pre‑existing diseases  
+
+- **Premium Health Plan**  
+  - Coverage: ₹10 lakh  
+  - Annual premium: ₹12,000  
+  - ICU coverage, ambulance charges up to ₹5,000  
+  - Cashless hospitalization, annual health check‑up  
+
+- **Family Floater Plan**  
+  - Coverage: ₹15 lakh  
+  - Covers two adults + two children  
+  - Annual premium: ₹16,500  
+  - Cashless hospitalization  
+
+---
+
+### 2. Motor Insurance  
+- **Third‑Party Plan** (mandatory by law)  
+  - Covers third‑party property damage & injury claims  
+
+- **Comprehensive Motor Insurance Plan**  
+  - Own vehicle damage, theft, fire, flood, natural disasters  
+  - Roadside assistance  
+
+---
+
+### 3. Travel Insurance  
+- **Domestic Travel Plan**  
+  - Medical emergencies, trip cancellation, lost baggage  
+
+- **International Travel Plan**  
+  - Medical coverage up to ₹50 lakh  
+  - Passport loss assistance, emergency evacuation, lost baggage support  
+
+---
+
+### 4. General Coverage Highlights  
+- Hospitalization, ICU, emergency treatment, ambulance charges  
+- Cashless treatment, day‑care procedures, accident‑related expenses  
+
+---
+
+If you’d like a quote, compare plans, or talk to a specialist, you can **request a callback** through the app or website. That’s the quickest way to get personalized help!
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:20:37.573344]
+User: Tell me about Health Insurance
+Bot: **Health Insurance Overview**
+
+Health insurance helps you protect yourself and your family from high medical costs. Darwix Insurance offers several plans that cater to different needs and budgets.
+
+---
+
+### 1. Plans We Offer
+
+#### **Premium Health Plan**
+- **Coverage:** ₹10 lakh
+- **Annual Premium:** ₹12,000
+- **Key Benefits:**
+  - ICU coverage included
+  - Ambulance charges covered up to ₹5,000
+  - Cashless hospitalization
+  - Annual health check‑up
+
+#### **Basic Health Plan**
+- **Coverage:** ₹5 lakh
+- **Annual Premium:** ₹7,500
+- **Key Benefits:**
+  - Cashless hospitalization
+  - Free annual health check‑up
+  - Pre‑existing disease waiting period of 3 years
+
+#### **Family Floater Plan**
+- **Coverage:** ₹15 lakh
+- **Annual Premium:** ₹16,500
+- **Key Benefits:**
+  - Covers two adults and two children
+  - Cashless hospitalization
+
+---
+
+### 2. What’s Covered
+
+Depending on the policy you choose, coverage may include:
+- Hospitalization
+- ICU expenses
+- Emergency treatment
+- Ambulance charges
+- Cashless treatment
+- Day‑care procedures
+- Accident‑related expenses
+
+---
+
+### 3. Eligibility
+
+- **Minimum age:** 18 years  
+- **Maximum age:** 65 years (for health plans)  
+
+---
+
+### 4. Waiting Periods
+
+- **Pre‑existing diseases:** 3 years (under the Basic Health Plan)  
+- **Accident‑related hospitalization:** Immediate coverage  
+- **Maternity benefits:** Varies by policy
+
+---
+
+### 5. How to Get Started
+
+If you’re interested in buying, renewing, or comparing plans, or if you’d like a personalized quote, please use the **Request Callback** tab. A Darwix representative will reach out to help you choose the best coverage for your needs.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:21:24.025191]
+User: What is the Basic Health Plan premium?
+Bot: **Basic Health Plan Premium**
+
+- Annual premium: **₹7,500**
+
+### Next Step
+If you'd like personalised assistance, please open the **Request Callback** tab and share your name and phone number.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:21:38.895992]
+User: i want the family floater for two adult and 3childrem can all 3 children be covered in insurance
+Bot: **Family Floater Plan – Coverage Limits**
+
+- The plan is designed for **two adults and two children**.  
+- It does **not** cover a third child under the same policy.
+
+If you’d like to explore options that could include an additional child or discuss a different plan, feel free to let me know. I can arrange a callback for you to talk with one of our specialists.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:22:10.566797]
+User: is pet insurance included
+Bot: I don't have that information.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:22:33.847803]
+User: i need human assistance
+Bot: **Human Assistance**
+
+- I can connect you with an insurance advisor for personalized help.
+- Please use the **Request Callback** tab to schedule a call.
+
+Certainly. Please use the **Request Callback** tab and a Darwix Insurance advisor can contact you.
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+
+
+[2026-08-20 02:23:22.720313]
+User: tell me about the insurance
+Bot: **What Darwix Insurance Covers**
+
+---
+
+### General Coverage Options  
+- Hospitalization  
+- ICU expenses  
+- Emergency treatment  
+- Ambulance charges  
+- Cashless treatment  
+- Day‑care procedures  
+- Accident‑related expenses  
+
+---
+
+### Health Insurance Plans  
+
+| Plan | Coverage | Key Features |
+|------|----------|--------------|
+| **Basic Health Plan** | ₹5 lakh | • Annual premium ₹7,500<br>• Cashless hospitalization<br>• Free annual health check‑up<br>• 3‑year waiting period for pre‑existing diseases |
+| **Premium Health Plan** | ₹10 lakh | • Annual premium ₹12,000<br>• ICU coverage included<br>• Ambulance charges up to ₹5,000<br>• Cashless hospitalization<br>• Annual health check‑up |
+| **Family Floater Plan** | ₹15 lakh | • Covers 2 adults + 2 children<br>• Annual premium ₹16,500<br>• Cashless hospitalization |
+
+---
+
+### Motor Insurance  
+
+- **Third‑Party Plan** – mandatory by law; covers third‑party property damage and injury claims.  
+- **Comprehensive Motor Insurance Plan** – covers own vehicle damage, theft, fire, flood, natural disasters, and roadside assistance.
+
+---
+
+### Travel Insurance  
+
+- **Domestic Travel Plan** – medical emergencies, trip cancellation, lost baggage.  
+- **International Travel Plan** – medical coverage up to ₹50 lakh, passport loss assistance, emergency evacuation, lost baggage support.
+
+---
+
+If you’d like to explore a specific plan or get a personalized quote, feel free to let me know!
+
+---
+
+### You can also ask
+
+**Health Insurance**
+
+- Tell me about Health Insurance
+- Compare Health Insurance plans
+- Which health plan is best for a family?
+
+**Payments**
+
+- Can I pay using UPI?
+- Can I pay monthly?
+- What payment methods are accepted?
+
+**Claims**
+
+- What documents are required?
+- How long does claim approval take?
+
+**Support**
+
+- Can I renew my policy online?
+- Connect me with a human advisor.
+

@@ -1,0 +1,11 @@
+# Transcript 2 – Objection Handling
+
+**Scenario:** Customer thinks the premium is expensive.
+
+**Customer:** The Premium Health Plan costs ₹12,000. That's expensive.
+
+**Bot:** I understand your concern. If you're looking for a more affordable option, the Basic Health Plan provides ₹5 lakh coverage for ₹7,500 per year while still including cashless hospitalization and a free annual health check-up.
+
+**Customer:** That sounds better.
+
+**Bot:** If you'd like help choosing the right plan, you can submit a Request Callback and a representative can assist you.

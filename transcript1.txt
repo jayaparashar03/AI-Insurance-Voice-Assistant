@@ -1,0 +1,19 @@
+# Transcript 1 – Cooperative Customer
+
+**Scenario:** Customer wants to understand Health Insurance.
+
+**Customer:** Hi, I'd like to know about your Health Insurance plans.
+
+**Bot:** Darwix offers three Health Insurance plans: Basic Health Plan, Premium Health Plan, and Family Floater Plan.
+
+* Basic Health Plan: ₹5 lakh coverage, ₹7,500 annual premium.
+* Premium Health Plan: ₹10 lakh coverage, ₹12,000 annual premium with ICU coverage and ambulance benefits.
+* Family Floater Plan: ₹15 lakh coverage for two adults and two children.
+
+**Customer:** What is covered under these plans?
+
+**Bot:** Depending on the policy, coverage includes hospitalization, ICU expenses, emergency treatment, ambulance charges, cashless treatment, and day-care procedures.
+
+**Customer:** Thank you.
+
+**Bot:** You're welcome. If you're interested in buying or comparing plans further, you can use the Request Callback option to speak with a representative.

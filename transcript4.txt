@@ -1,0 +1,17 @@
+# Transcript 4 – Incomplete / Conflicting Details
+
+Scenario: Customer provides details that conflict with the available policy information.
+
+Customer: I want the Family Floater Plan for my family.
+
+Bot: [actual bot response]
+
+Customer: There are two adults and three children.
+
+Bot: [actual bot response]
+
+Customer: Can all three children be covered?
+
+Bot: [actual bot response]
+
+Result: [Correct / Partially Correct / Incorrect]
