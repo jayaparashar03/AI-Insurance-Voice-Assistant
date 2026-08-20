@@ -265,3 +265,213 @@ q2/
 ├── retrieval_test.py
 ├── retrieval_tests.md
 └── q2_report.md
+
+
+# Question 3 – Native-Language Voice Bot Prototype
+
+## Objective
+
+The objective of Question 3 is to design localized conversational voice-bot prototypes for two different markets:
+
+1. Philippines (Insurance Domain)
+2. Indonesia (Consumer Finance Domain)
+
+The focus is on language adaptation, code-switching, local terminology, and culturally appropriate customer interactions.
+
+---
+
+## Markets Covered
+
+### Philippines
+
+Supported Languages:
+
+- English
+- Filipino
+- Taglish (English + Filipino)
+
+Example Customer Queries:
+
+- Magkano ang premium?
+- Pwede bang monthly ang payment?
+- What is a beneficiary?
+
+Localization Features:
+
+- Insurance terminology support
+- Natural Filipino conversational style
+- Taglish code-switching handling
+- Human-assistance escalation support
+
+---
+
+### Indonesia
+
+Supported Languages:
+
+- Bahasa Indonesia
+
+Example Customer Queries:
+
+- Berapa DP?
+- Berapa tenor pinjaman?
+- Saya belum bisa bayar cicilan.
+
+Localization Features:
+
+- Consumer-finance terminology support
+- Natural Indonesian conversational responses
+- Finance-specific vocabulary recognition
+- Human-assistance escalation support
+
+---
+
+## Code-Switching Support
+
+The prototype supports mixed-language customer conversations.
+
+Examples:
+
+Philippines:
+
+Customer:
+> Magkano ang premium?
+
+Customer:
+> Pwede bang monthly payment?
+
+Indonesia:
+
+Customer:
+> Berapa DP untuk financing ini?
+
+The bot preserves commonly used local financial and insurance terms instead of forcing complete translation.
+
+---
+
+## Localization Approach
+
+The implementation includes:
+
+- Language-specific response templates
+- Local insurance terminology
+- Local finance terminology
+- Cultural adaptation for customer communication
+- Human-agent escalation responses
+- Safe handling of unsupported requests
+
+The bot avoids generating unsupported promises related to approvals, pricing, discounts, or policy benefits.
+
+---
+
+## Project Structure
+
+```text
+q3/
+│
+├── bot.py
+├── test_q3.py
+├── q3_report.md
+│
+├── philippines/
+│   ├── knowledge.md
+│   └── test_cases.md
+│
+└── indonesia/
+    ├── knowledge.md
+    └── test_cases.md
+```
+
+---
+
+## Testing
+
+Testing was performed using localized customer scenarios.
+
+### Philippines Test Scenarios
+
+- Premium inquiry
+- Beneficiary inquiry
+- Coverage inquiry
+- Monthly payment inquiry
+- Human-agent request
+- Policy clarification
+- Appreciation response
+- Unsupported promise request
+
+### Indonesia Test Scenarios
+
+- Tenor inquiry
+- Down-payment inquiry
+- Installment inquiry
+- Payment schedule inquiry
+- Human-agent request
+- Eligibility inquiry
+- Appreciation response
+- Unsupported discount request
+
+---
+
+## Running the Prototype
+
+Navigate to the Q3 folder:
+
+```bash
+cd q3
+```
+
+Run the test suite:
+
+```bash
+python test_q3.py
+```
+
+The output displays localized responses for both markets.
+
+---
+
+## Example Output
+
+Philippines:
+
+Customer:
+> Magkano ang premium?
+
+Bot:
+> Ang premium ay depende sa plan at eligibility. Maaaring tulungan ka ng representative sa quote.
+
+Indonesia:
+
+Customer:
+> Berapa tenor pinjaman?
+
+Bot:
+> Tenor tergantung produk pembiayaan yang dipilih.
+
+---
+
+## Limitations
+
+Current implementation:
+
+- Rule-based language detection
+- Prototype conversational flows
+- No live telephony integration
+- No production speech recognition
+- No CRM integration
+
+A production deployment would require larger multilingual datasets, advanced language identification, speech processing, and integration with enterprise systems.
+
+---
+
+## Deliverables
+
+Included files:
+
+- bot.py
+- test_q3.py
+- q3_report.md
+- Philippines knowledge base
+- Indonesia knowledge base
+- Localized test cases
+- Screenshots demonstrating execution
